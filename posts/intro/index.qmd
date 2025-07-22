@@ -1,0 +1,8 @@
+---
+title: "intro"
+author: "KIM"
+date: "2025-07-22"
+categories: [news, code, analysis]
+---
+
+test
